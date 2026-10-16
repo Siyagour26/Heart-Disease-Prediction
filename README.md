@@ -1,3 +1,5 @@
+This app predicts heart disease risk based on user input.
+
 Model evaluation. Five machine learning classification algorithms were evaluated for the heart disease prediction task. Logistic regression was selected as the final model, achieving 87% accuracy on the evaluation data. The trained logistic regression model was saved and integrated into a Streamlit web application to provide interactive heart disease predictions. 
 
 
